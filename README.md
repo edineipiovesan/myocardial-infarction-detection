@@ -6,13 +6,13 @@ Através de operações pontuais, como alteração de contraste, binarização e
 
 O percentual da região infartada do miocárdio é utilizado para comparar fármacos e determinar qual atuou com maior eficácia no tratamento do infarto do miocárdio.
 
-## Imagens de entrada
-
-A imagem de entrada do miocárdio infartado deve ter sido anteriormente corado com *Picrosirius red stain* (PSR). O PSR faz com que a região infartada ganhe coloração avermelhada, enquanto o restante do miocárdio passa a ter a cor amarela.
-
 <p align="center">
   <img src="https://github.com/edineipiovesan/DIP-Myocardial_infarction/blob/master/Images/Original.jpg"/>
 </p>
+
+## Imagens de entrada
+
+A imagem de entrada do miocárdio infartado deve ter sido anteriormente corado com *Picrosirius red stain* (PSR). O PSR faz com que a região infartada ganhe coloração avermelhada, enquanto o restante do miocárdio passa a ter a cor amarela.
 
 A imagem original foi cortada para que não contenha nenhum outro elemento visual além do próprio miocárdio. A imagem abaixo exemplifica a imagem de entrada esperada pelo script.
 
@@ -22,7 +22,7 @@ A imagem original foi cortada para que não contenha nenhum outro elemento visua
 
 ## Imagem de saída
 
-Após o processamento, uma nova imagem é criada na mesma pasta do script com a comparação visual das regiões detectadas.
+Após o processamento, uma nova imagem é criada no mesmo diretório do script com a comparação visual das regiões detectadas.
 
 <p align="center">
   <img src="https://github.com/edineipiovesan/DIP-Myocardial_infarction/blob/master/Images/Output%20images/m_compare_IMGa22.png"/>
