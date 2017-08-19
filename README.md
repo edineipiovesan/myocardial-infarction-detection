@@ -12,7 +12,7 @@ O percentual da região infartada do miocárdio é utilizado para comparar fárm
 
 ## Imagens de entrada
 
-A imagem de entrada do miocárdio infartado deve ter sido anteriormente corado com *Picrosirius red stain* (PSR). O PSR faz com que a região infartada ganhe coloração avermelhada, enquanto o restante do miocárdio passa a ter a cor amarela.
+A imagem de entrada do miocárdio infartado deve ter sido previamente corado com *Picrosirius red stain* (PSR). O PSR faz com que a região infartada ganhe coloração avermelhada, enquanto o restante do miocárdio passa a ter a cor amarela.
 
 A imagem original foi cortada para que não contenha nenhum outro elemento visual além do próprio miocárdio. A imagem abaixo exemplifica a imagem de entrada esperada pelo script.
 
